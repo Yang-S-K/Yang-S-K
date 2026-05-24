@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 - 🔭 目前狀態：**電機工程學系人工智慧機器人碩士班**（機器人實驗室E315）。<br>- 🔭 I’m currently a **Master's Student in AI Robotics, Dept. of Electrical Engineering** (Robotics Lab E315).<br>- 🌱 研究領域：**雙足機器人系統整合、步態控制演算法、影像處理、機器人模擬訓練**。<br>- 🌱 My research focuses on **bipedal robot system integration, gait control algorithms, image processing, and robot simulation training**.<br>- 💻 技術日常：主要在 **Ubuntu** 環境下使用 **ROS 2 (Humble)** 與 **Docker**，熟悉模擬環境建構、影像演算法開發與 NVIDIA Jetson 平台。<br>- 💻 Tech routine: Mainly developing in an **Ubuntu** environment using **ROS 2 (Humble)** and **Docker**. Familiar with setting up simulation environments, computer vision algorithm development, and the NVIDIA Jetson platform.<br>- 💬 歡迎交流：機器人系統架構、模擬訓練與自主導航。<br>- 💬 Let's connect over: **Robotics system architecture, simulation training, and autonomous navigation.**<br><br><br><br><br>
 
 
